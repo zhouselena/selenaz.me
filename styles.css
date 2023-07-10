@@ -28,8 +28,9 @@
 .navbar ul li {
     list-style-type: none;
     display: inline-block;
-    margin: 0 20px;
+    margin: 0 10.5px;
     position: relative;
+    font-size: 16px;
 }
 
 .navbar ul li a {
