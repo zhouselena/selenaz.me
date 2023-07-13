@@ -13,21 +13,21 @@
 .navbar {
     width: 85%;
     margin: auto;
-    padding: 35px 0;
+    padding: 50px 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .logo {
-    width: 140px;
+    width: 160px;
     cursor: pointer;
 }
 
 .navbar ul li {
     list-style-type: none;
     display: inline-block;
-    margin: 0 10.5px;
+    margin: 5px 20px;
     position: relative;
     font-size: 16px;
 }
